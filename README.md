@@ -4,9 +4,9 @@
 
 This dissertation was my submission for my degree, Part III Masters in Applied Mathematics at the University of Cambridge. I obtained a distinction-level dissertation with 87%. It is also the same template I used for my undergraduate dissertation where I obtained 91% and subsequently the highest-graded dissertation in my year.
 
-For advice on writing a dissertation, I have a video where I give my tips and tricks. You can find it [here](https://www.youtube.com/watch?v=OJfLMVkbonc). 
+For advice on writing a dissertation, I have a video where I give my tips and tricks. You can find it [here](https://www.youtube.com/watch?v=OJfLMVkbonc)!
 
-I hope you find this resource helpful! If you did, please let me know on my YouTube channel 😊 If you experience any difficulties, leave a comment on my YouTube video above and I will do my best to help! Happy dissertation-ing!
+I hope you find this resource helpful! Happy dissertation-ing!
 
 ## The Contents 
 

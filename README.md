@@ -1,6 +1,6 @@
 # Part III Essay - LaTeX Document
 
-## Introduction & Background
+## Introduction & Background 
 
 This dissertation was my submission for my degree, Part III Masters in Applied Mathematics at the University of Cambridge. I obtained a distinction-level dissertation with 87%. It is also the same template I used for my undergraduate dissertation where I obtained 91% and subsequently the highest-graded dissertation in my year.
 
@@ -10,7 +10,7 @@ I hope you find this resource helpful! Happy dissertation-ing!
 
 ## The Contents 
 
-This resource has a text file (to be used in LaTeX), the final PDF document as well as the images used within my dissertation. This resource is designed so that you can copy the same template for your own dissertation and make amendments where necessary. 
+This resource has a text file (to be used in LaTeX), the final PDF document as well as the images used within my dissertation. This resource is designed so that you can copy the same template for your own dissertation and make amendments where necessary.
 
 ## Changing the Template for Your Own Dissertation
 

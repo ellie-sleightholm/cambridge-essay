@@ -1,4 +1,4 @@
-# Part III Essay - LaTeX Document
+# Part III Mathematics Essay - LaTeX Document
 
 ## Introduction & Background 
 

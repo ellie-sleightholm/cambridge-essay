@@ -6,7 +6,7 @@ This dissertation was my submission for my degree, Part III Masters in Applied M
 
 For advice on writing a dissertation, I have a video where I give my tips and tricks. You can find it [here](https://www.youtube.com/watch?v=OJfLMVkbonc)!
 
-I hope you find this resource helpful! Happy dissertation-ing!
+Happy dissertation-ing!
 
 ## The Contents 
 

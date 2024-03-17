@@ -1,4 +1,4 @@
-# Part III Mathematics Essay - LaTeX Document
+# Part III Applied Mathematics Essay - LaTeX Document
 
 ## Introduction and Background  
 
